@@ -10,7 +10,6 @@
 
             <!-- Main Content Area -->
             <div class="col-12 col-md-7">
-                <h1>Main Content Area</h1>
                 @include('components.posts') <!-- Include posts component -->
             </div>
 
